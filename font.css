@@ -1,0 +1,31 @@
+@font-face{
+	font-family:'aab';
+	src:url('fonts/Bellota/Bellota-Bold.ttf');
+}
+@font-face{
+	font-family:'aabi';
+	src:url('fonts/Bellota/Bellota-BoldItalic.ttf');
+}
+@font-face{
+	font-family:'aai';
+	src:url('fonts/Bellota/Bellota-Italic.ttf');
+}
+@font-face{
+	font-family:'aal';
+	src:url('fonts/Bellota/Bellota-Light.ttf');
+}
+@font-face{
+	font-family:'aali';
+	src:url('fonts/Bellota/Bellota-LightItalic.ttf');
+}@font-face{
+	font-family:'aa';
+	src:url('fonts/Bellota/Bellota-Regular.ttf');
+}
+@font-face{
+	font-family: 'bb';
+	src:url('fonts/Great_Vibes/GreatVibes-Regular.ttf');
+}
+@font-face{
+	font-family: 'cc';
+	src:url('fonts/Liu_Jian_Mao_Cao/LiuJianMaoCao-Regular.ttf');
+}
